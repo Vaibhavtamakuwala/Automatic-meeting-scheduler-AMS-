@@ -1,0 +1,37 @@
+mat-form-field {
+  width: 100%;
+}
+
+.kykz-login-container {
+  display: flex;
+  justify-content: center;
+}
+
+.kykz-logo {
+  position: absolute;
+  right: 0px;
+}
+
+mat-card {
+  width: 500px;
+  padding: 0px;
+}
+
+.kykz-login-form {
+  padding: 16px;
+}
+
+.login-up-btn {
+  display: flex;
+  justify-content: center;
+
+  button {
+    width: 200px;
+    background-color: #8CB185;
+  }
+}
+
+.signup-hyperlink {
+  display: flex;
+  justify-content: center;
+}
