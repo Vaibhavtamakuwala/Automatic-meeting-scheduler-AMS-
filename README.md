@@ -1,5 +1,5 @@
 # Automatic-Meeting-Scheduler-AMS
-It will schedule meetings on behalf of teacher/professor/individual.
+User can create and schedule meetings/ events. This app is useful to any person, particular group and academic purpose.
 
 
 ## prerequisite
