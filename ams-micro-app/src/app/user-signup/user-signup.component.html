@@ -1,0 +1,74 @@
+<div class="kykz-signup-container" >
+  <mat-card >
+
+    <img class="kykz-logo" src="../../assets/photos/amslogo.png" width="200">
+
+    <img src="../../assets/photos/kykz-design.svg" width="500">
+
+    <div class="kykz-signup-form">
+      <section>
+        <h3>Join Us,</h3>
+        <p>create account to continue</p>
+      </section>
+      <form [formGroup]="regiForm" #formDirective="ngForm" (ngSubmit)="onFormSubmit(regiForm.value,formDirective)">  
+
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>First Name</mat-label>
+            <input formControlName="firstName" matInput placeholder="enter your first name" required>
+            <mat-error *ngIf="!regiForm.controls.firstName.valid">Please enter your first name.</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>Middle Name</mat-label>
+            <input formControlName="middleName" matInput placeholder="enter your middle name">
+            <mat-error *ngIf="!regiForm.controls.middleName.valid">Please enter your middle name.</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>Last Name</mat-label>
+            <input formControlName="lastName" matInput placeholder="enter your last name">
+            <mat-error *ngIf="!regiForm.controls.lastName.valid">Please enter your last name.</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>Email</mat-label>
+            <input formControlName="email" matInput placeholder="enter your email id" type="email" class="form-control">
+            <mat-error *ngIf="!regiForm.controls.email.valid">Please enter valid email.</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>Enter your Password</mat-label>
+            <input formControlName="password" matInput [type]="hide ? 'password' : 'text'" #input minlength="8">
+            <mat-hint align="end">{{input.value?.length || 0}}/8</mat-hint>
+            <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+              <mat-icon>{{hide ? 'visibility_off': 'visibility'}}</mat-icon>
+            </button>
+            <mat-error *ngIf="!regiForm.controls.password.valid">Please enter your 8 digit password.</mat-error>
+          </mat-form-field>
+        </p>
+        <p>
+          <mat-form-field appearance="standard">
+            <mat-label>Confirm Password</mat-label>
+            <input formControlName="confirmPassword" matInput [type]="hide ? 'password' : 'text'" #input minlength="8">
+            <mat-hint align="end">{{input.value?.length || 0}}/8</mat-hint>
+            <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+              <mat-icon>{{hide ? 'visibility_off': 'visibility'}}</mat-icon>
+            </button>
+            <mat-error *ngIf="!regiForm.controls.confirmPassword.valid">Confirm password must be same as password.</mat-error>
+            
+          </mat-form-field>
+        </p>
+        <p class="sign-up-btn">
+          <button mat-raised-button color="primary">SIGN UP</button>
+
+        </p>
+        <p class="login-hyperlink">Already have an account? <a href="/login">Login</a></p>
+      </form>
+    </div>
+  </mat-card>
+</div>
