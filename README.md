@@ -1,4 +1,4 @@
-# Automatic-Meeting-Scheduler
+# Automatic-Meeting-Scheduler-AMS
 It will schedule meetings on behalf of teacher/professor/individual.
 
 
