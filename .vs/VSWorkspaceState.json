@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ams-micro-app",
+    "\\ams-micro-app\\src",
+    "\\ams-micro-app\\src\\app",
+    "\\ams-micro-app\\src\\app\\login",
+    "\\ams-micro-app\\src\\app\\main",
+    "\\ams-micro-app\\src\\app\\model",
+    "\\ams-micro-app\\src\\app\\model\\login",
+    "\\ams-micro-app\\src\\app\\splash-screen",
+    "\\ams-micro-app\\src\\app\\user-signup"
+  ],
+  "SelectedNode": "\\ams-micro-app\\src\\app\\app.component.ts",
+  "PreviewInSolutionExplorer": false
+}
