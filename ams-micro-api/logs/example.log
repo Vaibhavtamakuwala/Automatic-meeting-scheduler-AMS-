@@ -1,0 +1,725 @@
+debug: Label🏷️: Dec-05-2021 20:16:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-05-2021 20:16:47: mongo db connected succesfully
+debug: Label🏷️: Dec-05-2021 20:18:24: new user ayush sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:08:06: new user null sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:08:08: new user null sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:27: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:38: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:39: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:40: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:40: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:40: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:09:40: new user ravi sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:10:15: new user null sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:11:27: new user aabad sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:12:36: new user qqqqqq sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:27:56: new user null sign-up succesfully
+debug: Label🏷️: Dec-06-2021 13:33:17: new user null sign-up succesfully
+debug: Label🏷️: Dec-06-2021 17:21:40: new user vaibhav sign-up succesfully
+debug: Label🏷️: Dec-06-2021 17:22:26: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 17:33:55: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:02:45: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:12:43: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:12:54: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:12:55: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:12:56: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:13:56: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:14:39: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:07: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:08: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:08: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:09: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:15: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:15:30: new user champ sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:26:20: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:26:21: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:26:23: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:26:23: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:29:55: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:29:59: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:29:59: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:29:59: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:29:59: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:30:00: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:30:00: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:42:30: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:42:32: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:42:32: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:42:37: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:42:43: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:44:35: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:44:37: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:46:18: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:48:58: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:49:04: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:49:04: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:51:49: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:51:51: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:52:03: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:52:05: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:52:05: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:52:05: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:52:05: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 18:53:42: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:04:22: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:12: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:16: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:16: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:18: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:19: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:19: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:20: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 19:10:20: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:03:46: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:03:56: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:31:25: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:33:04: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:34:35: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:35:47: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:43:18: new user  sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:44:17: new user aaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:45:48: new user aaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:46:14: new user aaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:46:22: new user aaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:47:33: new user aaaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:49:16: new user mmmm sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:49:35: new user mmmm sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:49:38: new user mmmm sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:49:45: new user mmmm sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:51:45: new user wwww sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:51:46: new user wwww sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:51:46: new user wwww sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:53:02: new user aaaa sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:56:31: new user a sign-up succesfully
+debug: Label🏷️: Dec-06-2021 20:58:04: new user a sign-up succesfully
+debug: Label🏷️: Dec-07-2021 14:09:53: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-07-2021 14:09:55: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 00:35:26: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 00:35:33: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 00:36:39: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:36:56: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:37:05: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:37:06: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:37:07: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:38:22: new user abc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:51:48: new user a sign-up succesfully
+debug: Label🏷️: Dec-08-2021 00:51:53: new user a sign-up succesfully
+debug: Label🏷️: Dec-08-2021 01:05:40: new user c sign-up succesfully
+debug: Label🏷️: Dec-08-2021 01:05:47: new user c sign-up succesfully
+debug: Label🏷️: Dec-08-2021 01:09:56: new user z sign-up succesfully
+debug: Label🏷️: Dec-08-2021 01:12:25: new user  sign-up succesfully
+debug: Label🏷️: Dec-08-2021 01:12:48: new user d sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:06:49: Know Your Kidz Api has started listening on port 8081
+error: Label🏷️: Dec-08-2021 13:06:50: DB connection error: Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ac3ws.mongodb.net
+debug: Label🏷️: Dec-08-2021 13:24:09: Know Your Kidz Api has started listening on port 8081
+error: Label🏷️: Dec-08-2021 13:24:09: DB connection error: Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ac3ws.mongodb.net
+debug: Label🏷️: Dec-08-2021 13:27:57: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 13:28:00: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 13:29:11: new user zxc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:29:11: new user zxc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:29:12: new user zxc sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:35:27: new user z sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:40:25: new user a sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:41:58: new user ff sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:43:17: new user aa sign-up succesfully
+debug: Label🏷️: Dec-08-2021 13:46:09: new user dd sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:06:24: new user vaibh sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:09:59: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:05: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:05: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:09: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:09: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:39: new user a sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:10:58: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:08: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:09: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:09: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:09: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:11: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:11: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 14:11:11: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:39: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:40: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:40: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:41: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:42: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:04:42: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:07:38: new user s sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:10:07: new user a sign-up succesfully
+debug: Label🏷️: Dec-08-2021 16:13:03: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 16:13:06: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:19:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:19:48: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:20:09: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:20:09: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:24:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:24:42: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:27:50: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:27:51: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:29:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:29:35: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:29:42: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:29:43: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:31:04: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-08-2021 17:31:06: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:31:07: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 17:35:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 17:35:42: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:30:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:31:04: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:31:51: new user r sign-up succesfully
+debug: Label🏷️: Dec-08-2021 19:40:07: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:40:08: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:42:23: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:42:24: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:45:47: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:45:48: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:46:20: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:46:23: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:47:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:47:35: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:48:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:48:57: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 19:53:33: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 19:53:36: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 20:32:24: new user g sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:32:48: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:32:57: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:32:58: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:32:58: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:32:58: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:33:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 20:33:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-08-2021 21:22:53: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 21:22:58: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 21:31:29: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 21:31:31: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 21:32:08: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 21:32:09: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 21:54:23: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 21:54:24: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 22:19:12: new user dd sign-up succesfully
+debug: Label🏷️: Dec-08-2021 22:33:45: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 22:33:47: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 22:35:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 22:35:37: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 22:36:58: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 22:37:05: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:17:18: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:17:21: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:31:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:31:49: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:32:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:32:28: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:33:32: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:33:33: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:48:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:48:35: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:49:30: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:49:31: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:50:38: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:50:39: mongo db connected succesfully
+debug: Label🏷️: Dec-08-2021 23:54:09: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-08-2021 23:54:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-08-2021 23:54:18: mongo db connected succesfully
+error: Label🏷️: Dec-08-2021 23:56:05: User validation failed: token: Path `token` is required., confirmPassword: Your comfirm password is required, password: Your password is required, email: Your email is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:00:04: User validation failed: token: Path `token` is required., confirmPassword: Your comfirm password is required, password: Your password is required, email: Your email is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:01:54: User validation failed: token: Path `token` is required., confirmPassword: Your comfirm password is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+debug: Label🏷️: Dec-09-2021 00:04:00: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:04:02: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:04:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:04:28: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:05:38: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:05:49: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:07:06: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:07:08: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:07:36: User validation failed: confirmPassword: Your comfirm password is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:16:33: User validation failed: confirmPassword: Your comfirm password is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+debug: Label🏷️: Dec-09-2021 00:17:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:17:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:18:21: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:18:22: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:19:46: User validation failed: confirmPassword: Your comfirm password is required, password: Your password is required, email: Your email is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:20:29: User validation failed: confirmPassword: Your comfirm password is required, password: Your password is required, email: Your email is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:20:43: User validation failed: confirmPassword: Your comfirm password is required, password: Your password is required, email: Your email is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+error: Label🏷️: Dec-09-2021 00:20:48: User validation failed: confirmPassword: Your comfirm password is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+debug: Label🏷️: Dec-09-2021 00:22:37: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:22:38: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:23:08: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:23:09: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:23:18: User validation failed: confirmPassword: Your comfirm password is required, lastName: Last Name is required, middleName: Middle Name is required, firstName: First Name is required
+debug: Label🏷️: Dec-09-2021 00:26:12: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:26:13: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:26:37: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 00:29:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:29:49: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:29:59: user.comparePassword is not a function
+debug: Label🏷️: Dec-09-2021 00:31:42: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:31:43: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:31:55: user.comparePassword is not a function
+debug: Label🏷️: Dec-09-2021 00:47:06: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-09-2021 00:47:09: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:47:10: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:48:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:48:38: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 00:48:43: user.generateJWT is not a function
+debug: Label🏷️: Dec-09-2021 00:51:00: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:51:01: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:52:07: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 00:53:07: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:53:08: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:54:09: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:54:11: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:54:25: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:54:26: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 00:57:58: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 00:57:59: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 01:00:40: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:00:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 01:02:54: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 01:05:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:05:29: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 01:08:10: Know Your Kidz Api has started listening on port 8081
+error: Label🏷️: Dec-09-2021 01:08:25: DB connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ac3ws.mongodb.net
+error: Label🏷️: Dec-09-2021 01:08:28: Operation `users.findOne()` buffering timed out after 10000ms
+debug: Label🏷️: Dec-09-2021 01:08:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:08:58: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 01:11:55: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:11:56: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 01:12:14: Cannot read property 'comparePassword' of null
+debug: Label🏷️: Dec-09-2021 01:13:38: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:13:39: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 01:14:15: Cannot read property 'isVerified' of null
+debug: Label🏷️: Dec-09-2021 01:20:35: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:20:37: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 01:21:43: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 01:21:46: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 11:59:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 11:59:54: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:02:01: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:09:28: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:09:30: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:13:12: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:13:14: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:14:18: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:14:19: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:14:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:14:55: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:16:56: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:22:03: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:22:04: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:31:55: new user ahi@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:38:35: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:38:37: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:42:51: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-09-2021 12:42:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:42:54: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 12:43:02: Cannot read property 'findOne' of undefined
+debug: Label🏷️: Dec-09-2021 12:45:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:45:16: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 12:45:25: email is not defined
+debug: Label🏷️: Dec-09-2021 12:49:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:49:18: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:50:43: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:50:44: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:51:38: new user ati@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:53:18: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:54:33: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:54:34: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 12:54:48: new user undefined sign-up succesfully
+debug: Label🏷️: Dec-09-2021 12:55:08: new user ati@gmail.com sign-up succesfully
+error: Label🏷️: Dec-09-2021 12:55:19: data and hash arguments required
+debug: Label🏷️: Dec-09-2021 12:56:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 12:56:28: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 13:09:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 13:09:57: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 13:47:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 13:47:49: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:00:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:00:56: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:01:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:01:18: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:07:08: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:07:09: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:51:23: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:51:25: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:53:39: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:53:40: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 14:54:11: new user ayushi@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 14:58:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 14:58:45: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:00:18: new user raviraai@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 15:04:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:04:18: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:04:58: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:05:00: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:05:09: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:13:39: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:13:40: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:13:47: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:14:43: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:14:44: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:18:19: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:18:23: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:21:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:21:36: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:22:06: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:22:07: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 15:22:16: err is not defined
+debug: Label🏷️: Dec-09-2021 15:23:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:23:57: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 15:24:04: err is not defined
+debug: Label🏷️: Dec-09-2021 15:24:58: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:24:59: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:26:37: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:26:38: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:26:43: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:28:25: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:28:28: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:28:54: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:33:38: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:33:43: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:34:13: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:34:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:34:39: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:34:45: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:38:11: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:38:24: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:39:08: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:39:09: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:47:18: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:47:19: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:47:47: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:47:48: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:47:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:47:55: mongo db connected succesfully
+error: Label🏷️: Dec-09-2021 15:48:27: User validation failed: confirmPassword: confirm password is required., lastName: Last name is required., middleName: Middle name is required., firstName: First name is required.
+debug: Label🏷️: Dec-09-2021 15:49:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:49:57: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:50:03: new user raviraai@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 15:50:24: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 15:51:11: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:51:12: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:52:22: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:52:23: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 15:58:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 15:58:06: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 16:14:26: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:14:36: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:16:06: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:24:12: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:25:50: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:44:03: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:44:03: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:44:29: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:44:29: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:44:35: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:46:17: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:48:46: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:52:47: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 16:54:39: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:01:55: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:02:03: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:11:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:11:14: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:13:18: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:13:20: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:13:46: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-09-2021 17:13:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:13:49: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:14:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:14:16: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:14:50: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:15:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:15:02: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:15:08: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:15:13: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:15:13: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:15:15: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:16:47: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:16:51: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:26:50: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:26:54: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:27:41: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:28:10: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:31:45: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 17:31:47: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 17:37:04: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 17:45:55: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 18:39:29: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 18:42:44: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 18:45:17: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 19:20:28: new user ram@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:20:46: new user ram@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:20:54: new user ram@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:24:09: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 19:41:34: new user sd@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:43:25: new user hh@g.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:43:35: new user hh@g.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 19:56:57: new user pinkesh@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 20:05:37: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:05:39: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:09:39: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 20:11:28: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:11:29: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:18:51: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:18:53: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:23:59: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:24:01: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:26:33: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:26:35: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:29:46: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:29:48: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 20:40:39: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 20:40:41: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:01:40: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:01:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:02:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:02:13: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:03:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:03:18: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:04:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:04:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:05:14: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:05:15: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:06:59: new user kalpesh@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 21:08:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 21:08:43: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 21:09:35: Know Your Kidz Api has started listening on port 8081
+debug: Label🏷️: Dec-09-2021 22:36:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:36:37: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:37:33: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:37:34: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:40:37: user raviraai@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 22:42:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:42:05: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:43:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:43:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:44:12: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:44:14: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:45:10: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:45:12: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:45:16: user kalpesh@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 22:46:52: user kalpesh@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 22:50:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:50:42: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:52:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:52:17: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:52:28: user kalpesh@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 22:53:07: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:53:08: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:53:22: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:53:22: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:53:47: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:53:48: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:53:53: user kalpesh@gmail.com login succesfully
+debug: Label🏷️: Dec-09-2021 22:54:29: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:54:30: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:56:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:56:03: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:57:10: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:57:11: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:58:03: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:58:04: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:58:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:58:35: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 22:59:22: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 22:59:23: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:03:29: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:03:30: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:05:26: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:05:27: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:05:57: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:05:58: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:14:08: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:14:09: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:15:41: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:15:43: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:15:53: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-09-2021 23:15:54: mongo db connected succesfully
+debug: Label🏷️: Dec-09-2021 23:17:59: new user gf@g.com sign-up succesfully
+debug: Label🏷️: Dec-09-2021 23:18:21: user undefined login succesfully
+debug: Label🏷️: Dec-09-2021 23:28:32: new user hii@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-10-2021 13:03:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:03:57: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:06:45: new user kalpesh@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-10-2021 13:12:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:12:50: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:14:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:14:28: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:16:03: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:16:04: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:16:49: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:16:50: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:17:52: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:17:53: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:18:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:18:37: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:21:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:21:17: mongo db connected succesfully
+debug: Label🏷️: Dec-10-2021 13:23:21: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-10-2021 13:23:22: mongo db connected succesfully
+debug: Label🏷️: Dec-12-2021 18:43:50: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-12-2021 18:44:08: mongo db connected succesfully
+debug: Label🏷️: Dec-12-2021 19:14:12: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-12-2021 19:14:13: mongo db connected succesfully
+debug: Label🏷️: Dec-12-2021 19:39:33: new user vaibhav@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-12-2021 19:39:34: new user vaibhav@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-12-2021 19:47:35: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-12-2021 19:47:38: mongo db connected succesfully
+debug: Label🏷️: Dec-13-2021 18:40:52: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-13-2021 18:40:54: mongo db connected succesfully
+debug: Label🏷️: Dec-13-2021 18:52:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-13-2021 18:52:16: mongo db connected succesfully
+debug: Label🏷️: Dec-13-2021 18:53:50: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-13-2021 18:53:51: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:24:46: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:24:48: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:26:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:26:06: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:27:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:27:28: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:27:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:27:57: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:32:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:32:06: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:32:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:32:45: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:33:59: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:34:01: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:34:32: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:34:33: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:35:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:35:15: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:35:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:35:37: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:38:25: new user babita@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-14-2021 13:40:19: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:40:20: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:41:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:41:02: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:41:37: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:41:38: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 13:43:12: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 13:43:13: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:04:35: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:04:41: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:09:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:09:58: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:13:18: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:13:19: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:14:38: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:14:39: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:16:40: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:16:41: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:19:00: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:19:01: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:26:26: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:26:27: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:27:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:27:06: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:27:37: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:27:38: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:30:09: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:30:10: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:31:28: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:31:29: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:32:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:32:14: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:32:39: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:32:40: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:33:27: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:33:28: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:34:24: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:34:25: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:35:31: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:35:32: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:36:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:36:06: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:36:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:36:49: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:46:47: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:46:48: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:49:23: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:49:24: mongo db connected succesfully
+debug: Label🏷️: Dec-14-2021 18:51:56: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-14-2021 18:51:58: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 13:09:13: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 13:09:15: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:31:48: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:31:50: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:47:05: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:47:06: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:51:02: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:51:03: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:53:06: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:53:08: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:56:29: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:56:30: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 17:59:26: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 17:59:27: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 18:04:55: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 18:04:56: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 18:05:51: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 18:05:51: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 18:09:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 18:09:19: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 18:10:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 18:10:45: mongo db connected succesfully
+debug: Label🏷️: Dec-17-2021 19:56:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-17-2021 19:56:06: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 13:56:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 13:56:18: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 13:58:14: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 13:58:16: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 14:01:45: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 14:01:46: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 14:02:54: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 14:02:55: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 14:50:15: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 14:50:17: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:01:25: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:01:28: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:02:33: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:02:34: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:05:22: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:05:23: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:06:17: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:06:17: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:07:16: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:07:17: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:12:42: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:12:54: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 15:32:06: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 15:32:08: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 17:03:19: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 17:03:21: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 17:05:21: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 17:05:22: mongo db connected succesfully
+debug: Label🏷️: Dec-22-2021 18:54:53: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-22-2021 18:54:56: mongo db connected succesfully
+debug: Label🏷️: Dec-23-2021 13:55:34: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-23-2021 13:55:37: mongo db connected succesfully
+debug: Label🏷️: Dec-23-2021 14:36:03: new user ravi@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-23-2021 20:21:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-23-2021 20:21:40: mongo db connected succesfully
+debug: Label🏷️: Dec-23-2021 22:30:36: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-23-2021 22:30:39: mongo db connected succesfully
+debug: Label🏷️: Dec-24-2021 10:58:01: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-24-2021 10:58:03: mongo db connected succesfully
+debug: Label🏷️: Dec-24-2021 11:20:13: new user ramgmail sign-up succesfully
+debug: Label🏷️: Dec-24-2021 11:20:14: new user ramgmail sign-up succesfully
+debug: Label🏷️: Dec-24-2021 11:37:50: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-24-2021 11:37:53: mongo db connected succesfully
+debug: Label🏷️: Dec-24-2021 12:58:58: new user vaibhav123@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-26-2021 13:06:21: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-26-2021 13:06:23: mongo db connected succesfully
+error: Label🏷️: Dec-26-2021 15:59:26: User validation failed: email: Email is require.
+debug: Label🏷️: Dec-26-2021 16:24:45: new user laxmanBR129@gmail.com sign-up succesfully
+debug: Label🏷️: Dec-27-2021 12:22:44: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-27-2021 12:22:45: mongo db connected succesfully
+debug: Label🏷️: Dec-27-2021 12:35:45: Know Your Kidz Api has started listening on port 8081
+info: Label🏷️: Dec-27-2021 12:35:46: mongo db connected succesfully
